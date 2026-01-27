@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4dc2d737472e7610387bc82f316d43e0" label="Needlt" max_length="40" name="x_58872_needit_needlt" type="collection">
+        <element label="new field" max_length="40" name="new_field" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
