@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>needlt tasks</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_58872_needit_needlt_tasks</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-18 08:38:58</sys_created_on>
+        <sys_id>6ea14dc747cff650387bc82f316d439f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>needlt tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_object_6ea14dc747cff650387bc82f316d439f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-18 08:38:58</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_58872_needit.needlt_tasks_user" name="x_58872_needit.needlt_tasks_user">42d14dc747cff650387bc82f316d43b8</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ed1d7dca1bae759cfe1b43f4bd4bcb94</instance_id>
+        <instance_name>dev215562</instance_name>
+        <name>sys_db_object_6ea14dc747cff650387bc82f316d439f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>needlt tasks</label><live_feed_enabled>false</live_feed_enabled><name>x_58872_needit_needlt_tasks</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-02-18 08:38:58</sys_created_on><sys_id>6ea14dc747cff650387bc82f316d439f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>needlt tasks</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_db_object_6ea14dc747cff650387bc82f316d439f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-02-18 08:38:58</sys_updated_on><update_access>false</update_access><user_role display_value="x_58872_needit.needlt_tasks_user" name="x_58872_needit.needlt_tasks_user">42d14dc747cff650387bc82f316d43b8</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1792282934</payload_hash>
+        <record_name>needlt tasks</record_name>
+        <reverted_from/>
+        <source>96f83e7f476a7610387bc82f316d4332</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-18 08:39:00</sys_created_on>
+        <sys_id>aed1410b47cff650387bc82f316d43dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c6fe711120000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-18 08:39:00</sys_updated_on>
+        <type>Table</type>
+        <update_guid>a2d1410bfdcff6503f007e1937a130dc</update_guid>
+        <update_guid_history>a2d1410bfdcff6503f007e1937a130dc:-1792282934</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-18 08:41:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>096d8333652e4cb0b754a850599ee100</sys_id>
+        <sys_metadata>6ea14dc747cff650387bc82f316d439f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>needlt tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_db_object_6ea14dc747cff650387bc82f316d439f</sys_update_name>
+        <sys_update_version display_value="sys_db_object_6ea14dc747cff650387bc82f316d439f">aed1410b47cff650387bc82f316d43dc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-18 08:41:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
